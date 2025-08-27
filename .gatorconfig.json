@@ -1,4 +1,4 @@
 {
-  "dbUrl": "postgres://example",
-  "currentUserName": "boots"
+  "dbUrl": "postgres://postgres:@localhost:5432/gator?sslmode=disable",
+  "currentUserName": "unknown"
 }
